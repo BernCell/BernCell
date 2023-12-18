@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BernCell
-- 👀 I’m interested in Front end programming (Html, Css, Bootstrap and Jquery Framework, JavaScript, VueJS, React ...) and backend programming (NodeJS, Php, mysql ...)
-- 🌱 I’m currently learning ...to be better on everything
-- 💞️ I’m looking to collaborate on  Vue Js/NodeJs projects
+- 👀 I’m interested in Front end programming (Html, Css, Bootstrap and Jquery Framework, JavaScript, VueJS, React ...) and backend programming (NodeJS, Php, MySql ...)
+- 🌱 I’m currently learning ...to be better on Python 
+- 💞️ I’m looking for collaborating on Vue.js/React.js/NodeJs projects
 - 📫 How to reach me ... bern.cell@hotmail.com ... I'm reachable 'cause i'm not rich yet but i'm able  
 
 <!---
